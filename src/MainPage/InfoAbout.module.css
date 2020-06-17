@@ -1,0 +1,46 @@
+.container{
+    position: relative;
+    width: 1536px;
+    height: 550px;
+    margin: 0 auto;
+}
+.getBack{
+    position: absolute;
+    top:2.5em;
+    left:4em;
+    display: inline-flex;
+}
+.getBack :hover{
+    opacity: 1;
+    color: grey;
+}
+.back{
+    position: relative;
+    bottom: 0.4em;
+    left:0.5em;
+    color: #817c7c50;
+    opacity: 0.8;
+}
+.arrow {
+    position: relative;
+    top:0.15em;
+    width: 6px;
+    height: 6px;
+    border-top: 1px solid #817c7c50;
+    border-right: 1px solid #817c7c50;
+    transform: rotate(-135deg);
+}  
+.InfoText{
+    
+    position: relative;
+    top:5em;
+    left:3.5em;
+    width: 66%;
+    height: 60%;
+   
+}
+.Text{
+    font-size: 18px;
+    text-align: left;
+    font-family: 'Balsamiq Sans', cursive;
+}
