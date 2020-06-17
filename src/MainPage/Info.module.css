@@ -140,6 +140,7 @@ table{
     font-weight: 600;
     position: relative;
     top:0.3em;
+    text-align: center;
 }
 .chooseColorButton{
     color: white;
@@ -147,6 +148,7 @@ table{
     position: relative;
     top:35%;
     font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
 }
 .choosePhoto{
     position: relative;
@@ -194,6 +196,7 @@ table{
    margin-top: 51.2px;
    color:white;
    font-size: 20px;
+   text-align: center;
 }
 .NavBarLine {
     height: 1px;

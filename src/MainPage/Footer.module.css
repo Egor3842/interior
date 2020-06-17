@@ -22,7 +22,7 @@ span button {
 .point{
     position: relative;
     top:-1.3em;
-
+    text-align: center;
    margin-top: 51.2px;
    color:white;
    font-size: 20px;
